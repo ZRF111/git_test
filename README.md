@@ -42,8 +42,28 @@
 
 [baidu](https://baidu.com)
 
-**链接**
+**图片**
 
 ![image](http://bbs.sxsram.com/template/wekei_sim_1703_color/images/logo.png)
 
+![图片](http://oi7edk8dy.bkt.com/template/wekei_sim_1703_color/images/logo.png)
 
+```js
+function show(){
+
+}
+```
+
+```html
+<p>
+样式<a href="https://baidu.com">链接</a>
+</p>
+```
+
+内联的代码`alert('hello world')`
+内联的代码
+
+header 1 | header 2 | header 3
+---|--- | --- |
+row 1 col 1 | row 1 col 2 |3
+row 2 col 1 | row 1 col 2 |3
